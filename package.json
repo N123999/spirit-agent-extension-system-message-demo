@@ -1,5 +1,5 @@
 {
-  "name": "spirit-agent-extension-system-message-demo",
+  "name": "@n123999/spirit-agent-extension-system-message-demo",
   "version": "0.1.0",
   "description": "This is an extension example for having the AI output the system message.",
   "main": "dist/index.js",
